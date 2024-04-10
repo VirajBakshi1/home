@@ -2,29 +2,29 @@
     "courses": [
       {
         "id": 1,
-        "title": "Guitar Fundamentals",
+        "title": "Leave Managemnet System",
         "slug": "guitar-fundamentals",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
         "image": "/courses/guitar.jpg" 
       },
       {
-        "id": 2,
-        "title": "Piano for Beginners",
+        "id": 8,
+        "title": "Venue Booking System",
         "slug": "piano-for-beginners",
-        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "price": 109.99,
         "instructor": "Jane Smith",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "/courses/piano.jpg" 
       },
       {
         "id": 3,
-        "title": "Advanced Vocal Techniques",
+        "title": "Easy Results",
         "slug": "advanced-vocal-techniques",
-        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
@@ -32,22 +32,22 @@
       },
       {
         "id": 4,
-        "title": "Drumming Mastery",
+        "title": "Lecture Lab Conduction",
         "slug": "drumming-mastery",
-        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "price": 129.99,
         "instructor": "Mike Brown",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "/courses/drumming.jpg"
       },
       {
         "id": 5,
-        "title": "Jazz Improvisation",
+        "title": "Hostel Management System",
         "slug": "jazz-improvisation",
-        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "price": 139.99,
         "instructor": "Chris Davis",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "/courses/jazz.jpg"
       },
       {
@@ -57,7 +57,7 @@
         "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
         "price": 149.99,
         "instructor": "Alex Wilson",
-        "isFeatured": true,
+        "isFeatured": false,
         "image": "/courses/music-prod.jpg"
       },
       {
@@ -71,13 +71,13 @@
         "image": "/courses/song-writing.jpg"
       },
       {
-        "id": 8,
+        "id": 2,
         "title": "Electronic Music Production",
         "slug": "electronic-music-production",
         "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
         "price": 169.99,
         "instructor": "Luke Harris",
-        "isFeatured": true,
+        "isFeatured": false,
         "image": "/courses/music-prod.jpg"
       },
       {
@@ -97,7 +97,7 @@
         "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
         "price": 189.99,
         "instructor": "Ethan Moore",
-        "isFeatured": true,
+        "isFeatured": false,
         "image": "/courses/blues.jpg"
       }
     ]

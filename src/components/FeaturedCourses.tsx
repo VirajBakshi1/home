@@ -19,11 +19,11 @@ function FeaturedCourses() {
 
 
   return (
-    <div className="py-12 bg-gray-900">
+    <div className="py-12 bg-gray-900" style={{marginBottom:"10vh"}}>
         <div>
             <div className="text-center">
-                <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">FEATURED COURSES</h2>
-                <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">Learn With the Best</p>
+                <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">OUR SOLUTIONS</h2>
+                <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">ONE PLATFORM FOR ALL THE PROBLEMS</p>
             </div>
         </div>
         <div className="mt-10 mx-8">
@@ -43,13 +43,6 @@ function FeaturedCourses() {
                     </div>
                 ))}
             </div>
-        </div>
-        <div className="mt-20 text-center">
-            <Link href={"/courses"}
-            className="px-4 py-2 rounded border border-neutral-600 text-neutral-700 bg-white hover:bg-gray-100 transition duration-200"
-            >
-            View All courses
-            </Link>
         </div>
     </div>
   )
